@@ -22,7 +22,6 @@ var About = (props) => {
                 </li>
             </ul>
         </div>
-
     );
 }
 module.exports = About;
